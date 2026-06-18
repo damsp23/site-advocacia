@@ -1,20 +1,14 @@
-# Site Trabalhista Diogo Moreira - V4 menu lateral limpo
 
-Esta versão remove os cards duplicados do lado direito da página inicial.
+# Publicação da versão visual exata
 
-A navegação por temas trabalhistas fica concentrada no menu lateral esquerdo.
-Cada item do menu abre uma página própria dentro da pasta `areas`.
+Suba para o repositório `site-advocacia` os seguintes itens:
 
-## Publicação
+- `index.html`
+- `styles.css`
+- `script.js`
+- `robots.txt`
+- `sitemap.xml`
+- pasta `assets`
+- pasta `areas`
 
-Envie para a raiz do repositório GitHub Pages:
-
-- index.html
-- styles.css
-- script.js
-- robots.txt
-- sitemap.xml
-- assets/
-- areas/
-
-Não envie o arquivo ZIP. Envie os arquivos extraídos.
+WhatsApp configurado: (11) 94051-6232

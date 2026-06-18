@@ -7,7 +7,6 @@ if (railToggle && railMenu) {
     railToggle.setAttribute('aria-expanded', String(open));
   });
 }
-
 const form = document.getElementById('whatsapp-form');
 if (form) {
   form.addEventListener('submit', (event) => {
@@ -17,7 +16,12 @@ if (form) {
     const telefone = data.get('telefone') || '';
     const tema = data.get('tema') || '';
     const resumo = data.get('resumo') || '';
-    const message = `Olá, Dr. Diogo. Vim pelo site e gostaria de atendimento trabalhista.%0A%0ANome: ${encodeURIComponent(nome)}%0ATelefone: ${encodeURIComponent(telefone)}%0ATema: ${encodeURIComponent(tema)}%0AResumo: ${encodeURIComponent(resumo)}`;
-    window.open(`https://wa.me/5511940516232?text=${message}`, '_blank', 'noopener');
+    const message = `Olá, Dr. Diogo. Vim pelo site e gostaria de atendimento trabalhista.
+
+Nome: ${nome}
+Telefone: ${telefone}
+Tema: ${tema}
+Resumo: ${resumo}`;
+    window.open(`https://wa.me/5511940516232?text=${encodeURIComponent(message)}`, '_blank', 'noopener');
   });
 }
