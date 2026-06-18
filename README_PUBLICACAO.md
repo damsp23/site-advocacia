@@ -1,25 +1,13 @@
-# Site Diogo Moreira Advocacia - versão 2.0
+# Site Trabalhista V3 — layout com coluna lateral fixa
 
-Estrutura profissional com páginas internas de Direito do Trabalho.
+Esta versão segue o desenho solicitado: coluna lateral esquerda com Direitos Trabalhistas e área principal à direita com o site normal.
 
-## Arquivos principais
-- index.html
-- styles.css
-- script.js
-- robots.txt
-- sitemap.xml
-- assets/
-- areas/
+## Publicação no GitHub
 
-## Publicação no GitHub Pages
 1. Extraia o ZIP.
-2. No repositório `site-advocacia`, clique em Add file > Upload files.
-3. Envie todos os arquivos e pastas extraídos.
+2. No repositório `site-advocacia`, clique em **Add file > Upload files**.
+3. Envie todos os arquivos e pastas extraídos, especialmente `index.html`, `styles.css`, `script.js`, `assets` e `areas`.
 4. Faça o commit.
-5. Aguarde o GitHub Pages atualizar e pressione Ctrl + F5 no site.
+5. Aguarde o GitHub Pages atualizar e pressione Ctrl+F5 no navegador.
 
-## WhatsApp configurado
-(11) 94051-6232 — link técnico: https://wa.me/5511940516232
-
-## Observação ética
-Os textos são informativos, não prometem resultado e remetem o usuário à análise individual dos documentos e fatos.
+Não envie o ZIP fechado.
