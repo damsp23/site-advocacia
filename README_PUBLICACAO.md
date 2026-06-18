@@ -1,13 +1,20 @@
-# Site Trabalhista V3 — layout com coluna lateral fixa
+# Site Trabalhista Diogo Moreira - V4 menu lateral limpo
 
-Esta versão segue o desenho solicitado: coluna lateral esquerda com Direitos Trabalhistas e área principal à direita com o site normal.
+Esta versão remove os cards duplicados do lado direito da página inicial.
 
-## Publicação no GitHub
+A navegação por temas trabalhistas fica concentrada no menu lateral esquerdo.
+Cada item do menu abre uma página própria dentro da pasta `areas`.
 
-1. Extraia o ZIP.
-2. No repositório `site-advocacia`, clique em **Add file > Upload files**.
-3. Envie todos os arquivos e pastas extraídos, especialmente `index.html`, `styles.css`, `script.js`, `assets` e `areas`.
-4. Faça o commit.
-5. Aguarde o GitHub Pages atualizar e pressione Ctrl+F5 no navegador.
+## Publicação
 
-Não envie o ZIP fechado.
+Envie para a raiz do repositório GitHub Pages:
+
+- index.html
+- styles.css
+- script.js
+- robots.txt
+- sitemap.xml
+- assets/
+- areas/
+
+Não envie o arquivo ZIP. Envie os arquivos extraídos.
